@@ -6,10 +6,10 @@ on:
 
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
-  RESOURCE-GROUP: rg-eshoponweb-skillup
+  RESOURCE-GROUP: rg-eshoponweb-Skillup
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 8af17bd6-117f-4c9d-964c-43cf5ed13f0a
+  SUBSCRIPTION-ID: be40f85a-7ca1-48fb-bfb5-11fe1320e9a8
   WEBAPP-NAME: eshoponweb-webapp-skillup1
 
 
